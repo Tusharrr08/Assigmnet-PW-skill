@@ -38,7 +38,7 @@ TRUNCATE TABLE infomatic
 #DML stands for Data Manipulation Language. It is a set of SQL statements that are used to manipulate data in a database.
 
 #INSERT is used to insert data in table.
-insert into database_name.table_name values(INT, VARCHAR(200), FLOAT,)
+INSERT INTO database_name.table_name values(INT, VARCHAR(200), FLOAT,)
 
 #UPDATE is used to update existing data in database 
 UPDATE table_name SET City = 'NewDelhi' WHERE S.No = 1
